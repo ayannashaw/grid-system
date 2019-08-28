@@ -1,0 +1,50 @@
+.container-fluid {
+    background-color: yellow;
+    padding: 50px 75px 25px 75px;
+}
+
+.header {
+    background-color: blue;
+    height: 120px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.nav {
+    background-color: green;
+    height: 40px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.content {
+    background-color: red;
+    height: 160px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.aside {
+    background-color: aqua;
+    height: 160px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.promo {
+    background-color: orange;
+    height: 120px;
+    border: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    height: 40px;
+}

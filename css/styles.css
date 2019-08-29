@@ -48,3 +48,45 @@
     color: white;
     height: 40px;
 }
+
+@media only screen and (min-width: 768px) {
+    .header {
+        background-color: purple;
+    }
+    .nav {
+        background-color: aquamarine;
+    }
+    .content {
+        background-color: chartreuse;
+    }
+    .aside {
+        background-color: coral;
+    }
+    .promo {
+        background-color: cornflowerblue;
+    }
+    .footer {
+        background-color: navy;
+    }
+}
+
+@media only screen and (min-width: 875) {
+    .header {
+        background-color: navy;
+    }
+    .nav {
+        background-color: cornflowerblue;
+    }
+    .content {
+        background-color: coral;
+    }
+    .aside {
+        background-color: chartreuse;
+    }
+    .promo {
+        background-color: aquamarine;
+    }
+    .footer {
+        background-color: purple;
+    }
+}
